@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import Sidebar from './Components/SideBar'
+import Sidebar from './Components/Sidebar'
 import MainPanel from './Components/MainPanel'
 
 function App() {
